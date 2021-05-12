@@ -1,2 +1,5 @@
 site_name: Barun's Backend Guide 
+nav:
+	- Home: index.md
+	- About: about.md
 theme: readthedocs
